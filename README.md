@@ -3,7 +3,7 @@ A full-stack Project Management Tool using React js, Node.js, Express js and Mon
 
 Planify: A Project Management Tool
 
-Effective planning is crucial for achieving goals and maintaining a competitive edge, which is why Planify has emerged as the solution of choice. Welcome to Planify, your comprehensive tool designed to simplify and enhance productivity across all aspects of project management. Planify embodies the motto "Art of Getting It Done," serving as your centralized resource for seamless project management.
+Effective planning is crucial for achieving goals and maintaining a competitive edge, which is why Planify has emerged as the solution of choice. Welcome to Planify, your comprehensive tool designed to simplify and enhance productivity across all aspects of project management. Planify embodies the motto "Art of Getting It Done", serving as your centralized resource for seamless project management.
 
 Planify improves transparency, accountability, and efficiency by consolidating all project-related information in one accessible location. Additionally, it is visually appealing and very easy to use. Let Planify streamline your workflow, enhance efficiency, and ensure success at every stage of your project journey.
 
